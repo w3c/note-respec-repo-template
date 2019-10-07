@@ -1,2 +1,5 @@
-# note-respec-repo-template
-A Group Note using respec
+
+# MyNote
+
+This is the repository for MyNote.
+
